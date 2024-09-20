@@ -13,7 +13,7 @@
 
 <h2> About Me</h2>
 
-<a href="https://app.daily.dev/WaleedTariq109"><img src="https://api.daily.dev/devcards/6f5af80d318a4ec9b6880aaaaffca80c.png?r=6eu" align="right" width="300" alt="Waleed Dev Card"/></a>
+<a href="https://app.daily.dev/asjadali"><img src="https://api.daily.dev/devcards/v2/5x3hB7UNa4sjuXHsMR0Dc.png?type=default&r=jui" width="356" alt="Asjad Ali's Dev Card"/></a>
 
 - 🔭 I’m currently working at Sukuk Capital.
 - 💬 Ask me about **JavaScript**, **TypeScript**, **Vue**, **Nuxt**, **Node**.
