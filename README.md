@@ -6,7 +6,7 @@
 <p align='center'>
 </p>
 
-### Hi! My name is Asjad Ali Watto. I'm a passionate Software engineer from beautiful Pakistan :smile:
+### Hi! My name is Asjad Ali. I'm a passionate Software engineer from beautiful Pakistan :smile:
 
 <br>
 <br>
