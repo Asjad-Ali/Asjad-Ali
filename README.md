@@ -42,7 +42,7 @@
 
 | ![Waleed github stats](https://github-readme-stats.vercel.app/api?username=Asjad-Ali&show_icons=true&theme=radical) | ![Waleed GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asjad-Ali&theme=radical) |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asjad-Ali&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Asjad-Ali&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asjad-Ali&langs_count=10&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Asjad-Ali&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
 
 <h2> Need a break? How about a quick programming laugh? <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = "32"></h2>
 
